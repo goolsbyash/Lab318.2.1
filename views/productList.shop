@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>#animal#</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <div id="app">
+      <h1>#animal# Products</h1>
+      <img src="#imgSource#" width="100px height="100px"/>
+      <div>#content#</div>
+    </div>
+  </body>
+</html>
