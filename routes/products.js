@@ -4,7 +4,7 @@ const router = express.Router();
 // Routes
 
 router.get("/", (req, res) => {
-  res.send("Getting products list.");
+  res.send("Getting general products list.");
 });
 
 router.get("/cats", (req, res) => {
