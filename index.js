@@ -30,7 +30,7 @@ app.use("/products", productRoutes);
 
 // Root/main route
 app.get("/", (req, res) => {
-    res.send("Welcome to The Shop!");
+    res.send("Welcome to The Pet Supplies Shop!");
   
 });
 
